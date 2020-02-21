@@ -25,6 +25,6 @@
      <title></title>
    </head>
    <body>
-    <p><?php echo $mex ?></p>
+    <h1><?php echo $mex ?></h1>
    </body>
  </html>
